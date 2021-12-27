@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Home blog</title>
+    <link>https://thebestrestaurants.github.io/categories/</link>
+    <description>Recent content in Categories on Home blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://thebestrestaurants.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Templates</title>
+      <link>https://thebestrestaurants.github.io/categories/templates/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thebestrestaurants.github.io/categories/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wallpaper</title>
+      <link>https://thebestrestaurants.github.io/categories/wallpaper/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thebestrestaurants.github.io/categories/wallpaper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
